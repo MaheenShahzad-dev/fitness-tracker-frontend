@@ -1,0 +1,8 @@
+{
+  "name": "PulseFit - Complete Fitness Tracker",
+  "description": "Comprehensive MERN-architecture fitness tracking system featuring workout logging, nutrition management, visual analytics, progress tracking, and report exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
